@@ -1,0 +1,7 @@
+*.pyc
+*.swp
+src/aiotBackend/db.sqlite3
+.DS_Store
+.vscode
+.idea
+
